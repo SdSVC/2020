@@ -26,13 +26,11 @@ exclude:
 
 # 2. Installed Gems
 plugins:
-- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
-- jekyll-default-layout
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
