@@ -121,21 +121,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /2020/
 - title: Organizers
-  url: /organizers/
+  url: /2020/organizers/
 #- title: Blog
 #  url: /blog/
 - title: Registration
-  url: /registration/
+  url: /2020/registration/
 - title: Results
-  url: /results/
+  url: /2020/results/
 - title: Descriptions
-  url: /mydescriptions/
+  url: /2020/mydescriptions/
 - title: Workshop
-  url: /workshop/
+  url: /2020/workshop/
 - title: Search
-  url: /search/
+  url: /2020/search/
 
 navigation_footer:
 - title: SdSV Challenge 2020
