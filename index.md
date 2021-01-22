@@ -18,9 +18,9 @@ The evaluation dataset used for the challenge is drawn from the recently release
 
 [1] H. Zeinali, L. Burget, J. Cernocky, A multi purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database, in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019 (2019).
 
-The Kaldi baseline recipe for both tasks can be found in [this link](/assets/sdsvc2020_kaldi_xvector_baseline.tar.gz). For running the baseline you should first download both VoxCeleb1 and VoxCeleb2 datasets. Then after downloading the challenge data, by putting the baseline code in the Kaldi egs directory you can run this code.
+The Kaldi baseline recipe for both tasks can be found in [this link](/2020/assets/sdsvc2020_kaldi_xvector_baseline.tar.gz). For running the baseline you should first download both VoxCeleb1 and VoxCeleb2 datasets. Then after downloading the challenge data, by putting the baseline code in the Kaldi egs directory you can run this code.
 
-The full challenge evaluation plane version 1.1 can be found in [this link](/assets/SdSV_Challenge_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsvc2020\[at\]gmail.com](mailto:sdsvc2020\[at\]gmail.com).
+The full challenge evaluation plane version 1.1 can be found in [this link](/2020/assets/SdSV_Challenge_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsvc2020\[at\]gmail.com](mailto:sdsvc2020\[at\]gmail.com).
 
 ---
 ### Schedule[modified]
@@ -128,23 +128,3 @@ There will be three cash prizes for each task. The winners will be selected base
     </td>
  </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
